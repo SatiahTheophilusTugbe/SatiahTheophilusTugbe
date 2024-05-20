@@ -62,7 +62,6 @@
   <img src="https://img.shields.io/badge/MPLS-FF7F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NIST-ff0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISO27001-003366?style=for-the-badge" />
- 
  </div>
 
  ### Endpoint / Threat Intelligent & Management
@@ -80,21 +79,38 @@
   <img src="https://img.shields.io/badge/oVrc_Wattbox-0077FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />   
-
  </div>
 
  ### SIEM / SOAR / ITSM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/Logic_Monitor-000000?style=for-the-badge&logo=LogicMonitor&logoColor=white" />
-    <img src="https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=ServiceNow&logoColor=white" />
-    <img src="https://img.shields.io/badge/TrackIt-003300?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Osticket-000000?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Security_Orion_Suite-000000?style=for-the-badge" />
-    
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic_Monitor-000000?style=for-the-badge&logo=LogicMonitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=ServiceNow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Orion_Suite-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TrackIt-003300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Osticket-000000?style=for-the-badge" />    
 </div>
+
+## 🏆​ Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA_CySA%2B-2D308B?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet_NSE_Level_3-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/LPI_Linux_Essentials-F5BF18?style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_Azure_Network_Engineer_Associate(AZ--700)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Administrator_(AZ--104)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_(AZ--900)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Security,_Compliance,_and_Identity_(SC--900)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_365(MS--900)-0078D4?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_(DP--900)-0078D4?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence_(AI--900)-0078D4?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+</div>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
