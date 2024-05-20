@@ -1,11 +1,14 @@
 <h1>Hi, I'm Satiah Theophilus Tugbe, Snr!</h1>
 
-<b>Highly skilled and motivated Cybersecurity professional with extensive hands-on experience in security engineering and Security Operations Center (SOC) management. Seeking to leverage a deep understanding of cybersecurity principles and advanced technical skills to contribute to a dynamic team and fortify the organization's defenses.</b>
+<b>A highly skilled and motivated Cybersecurity professional with extensive hands-on experience in security engineering and Security Operations Center (SOC) management. Seeking to leverage a deep understanding of cybersecurity principles and advanced technical skills to contribute to a dynamic team and fortify the organization's defenses.</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Implementing an SOC and Honeypot in MS Azure</b>
-  - [Setup and configuration](https://github.com/)
+- <b>Technology Type (In Progress)</b>
+  - [Project Name] (https://github.com/)
+  - Project Description
+  - [Project Name] (https://github.com/)
+  - [Project Name] (https://github.com/)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
   - [JWipe (Disk Wiping Utility)](https://github.com/)
