@@ -8,16 +8,28 @@
   - [Project Name] (https://github.com/)
   - Project Description
   - [Project Name] (https://github.com/)
+  - Project Description
   - [Project Name] (https://github.com/)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/)
-  - [Active Directory Bulk User Creation](https://github.com/)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
-  - [Keylogger with Email Capability](https://github.com/)
-- <b>Python</b>
+  - Project Description
+    
+- <b>Technology Type (In Progress)</b>
+  - [Project Name] (https://github.com/)
+  - Project Description
+  - [Project Name] (https://github.com/)
+  - Project Description
+  - [Project Name)] (https://github.com/)
+  - Project Description
+  - [Project Name] (https://github.com/)
+    
+- <b>Technology Type (In Progress)</b>
+  - [Project Name] (https://github.com/)
+  - Project Description
+  - [Project Description] (https://github.com/)
+  - Project Description
+  - [Project Description] (https://github.com/)
+  - Project Description
+    
+- <b>Technology Type (In Progress)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 
 <h2>📺 Popular YouTube Videos</h2>
