@@ -49,9 +49,9 @@
 
  <h2>Tools</h2>
  <div>
-   Tools1
-   Tools2
-   Tools3
+   [Tools1] (https://github.com/)
+   [Tools2] (https://github.com/)
+   [Tools3] (https://github.com/)
  </div>
 
 <h2>📺 Popular YouTube Videos</h2>
