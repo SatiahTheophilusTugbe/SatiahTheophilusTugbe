@@ -43,9 +43,9 @@
   - [Problem Type] (https://github.com/)
  
 <h2>Documents</h2>
- - [Document1] (https://github.com/)
- - [Document2] (https://github.com/)
- - [Document2] (https://github.com/)
+ [Document1] (https://github.com/)
+ [Document2] (https://github.com/)
+ [Document2] (https://github.com/)
 
  <h2>Tools</h2>
 
