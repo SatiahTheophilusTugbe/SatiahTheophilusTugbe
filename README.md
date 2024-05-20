@@ -36,6 +36,13 @@
   - Project Description
   - [Project Name] (https://github.com/)
   - Project Description
+ 
+- <b>Problem Resolution / Findings</b>
+  - [Problem Type] (https://github.com/)
+  - [Problem Type] (https://github.com/)
+  - [Problem Type] (https://github.com/)
+ 
+- 
 
 <h2>📺 Popular YouTube Videos</h2>
 
