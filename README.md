@@ -30,7 +30,12 @@
   - Project Description
     
 - <b>Technology Type (In Progress)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+  - [Project Name] (https://github.com/)
+  - Project Description
+  - [Project Name] (https://github.com/)
+  - Project Description
+  - [Project Name] (https://github.com/)
+  - Project Description
 
 <h2>📺 Popular YouTube Videos</h2>
 
