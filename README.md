@@ -113,15 +113,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="satiahtheophilusttugbe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="satiahtheophilustugbe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="satiahtheophilustugbe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="satiahtheophilustugbe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="satiahtheophilusttugbe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/satiahtheophilustugbe/
 [youtube]: https://www.youtube.com/c/SATIAHTHEOPHILUSTUGBE
-
-
 
 <!--
 **satiahtheophilustugbe/satiahtheophilustugbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
