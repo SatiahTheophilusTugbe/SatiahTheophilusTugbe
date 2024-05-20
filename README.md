@@ -49,9 +49,17 @@
 
  <h2>Tools</h2>
  <div>
-   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   [Tools2] (https://github.com/)
-   [Tools3] (https://github.com/)
+  <img src="https://img.shields.io/badge/Routing_protocols-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unifi_Controller-055ADA?style=for-the-badge&logo=Ubiquiti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet_tracer-1D6A9A?style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VeloCloud-00509E?style=for-the-badge&logo=VeloCloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-0085CA?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-333333?style=for-the-badge&logo=pfSense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pi--hole-05122A?style=for-the-badge&logo=Pi-hole&logoColor=white" />
+  <img src="https://img.shields.io/badge/MPLS-FF7F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST-ff0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO27001-003366?style=for-the-badge" />
  </div>
 
 <h2>📺 Popular YouTube Videos</h2>
