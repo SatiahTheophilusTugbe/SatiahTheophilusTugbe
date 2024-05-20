@@ -95,20 +95,12 @@
 
 ## 🏆​ Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA_CySA%2B-2D308B?style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Fortinet_NSE_Level_3-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
-<img src="https://img.shields.io/badge/LPI_Linux_Essentials-F5BF18?style=for-the-badge&logo=Linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Microsoft_Azure_Network_Engineer_Associate(AZ--700)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Administrator_(AZ--104)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_(AZ--900)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Security,_Compliance,_and_Identity_(SC--900)-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_365(MS--900)-0078D4?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_(DP--900)-0078D4?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
-<img src="https://img.shields.io/badge/Artificial_Intelligence_(AI--900)-0078D4?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+ <img src="https://img.shields.io/badge/CompTIA_CySA%2B-2D308B?style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/LPI_Linux_Essentials-F5BF18?style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
 
