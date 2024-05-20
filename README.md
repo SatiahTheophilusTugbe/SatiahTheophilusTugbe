@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Implementing a SOC and Honeypot in MS Azure</b>
+- <b>Implementing an SOC and Honeypot in MS Azure</b>
   - [Setup and configuration](https://github.com/)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
