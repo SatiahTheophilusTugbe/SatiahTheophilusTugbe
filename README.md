@@ -48,6 +48,7 @@
  - [Document2] (https://github.com/)
 
  <h2>Tools</h2>
+ ### Network / SD-WAN
  <div>
   <img src="https://img.shields.io/badge/Routing_protocols-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -60,6 +61,23 @@
   <img src="https://img.shields.io/badge/MPLS-FF7F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NIST-ff0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISO27001-003366?style=for-the-badge" />
+ </div>
+
+ ### Endpoint / Threat Intelligent & Management
+ <div>
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Cloud-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/vSphere_ESXi-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Meraki-0098E1?style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-339900?style=for-the-badge&logo=Nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/WDS-5E9ACF?style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDQ-516E94?style=for-the-badge&logo=PDQ&logoColor=white" />
+  <img src="https://img.shields.io/badge/oVrc_Wattbox-0077FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />   
  </div>
 
 <h2>📺 Popular YouTube Videos</h2>
