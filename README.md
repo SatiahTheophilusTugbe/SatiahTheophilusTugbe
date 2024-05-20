@@ -1,4 +1,4 @@
-<h2>Hi, I'm Satiah Theophilus Tugbe, Snr!</h2>
+<h1>Hi, I'm Satiah Theophilus Tugbe, Snr!</h1>
 
 <b>Highly skilled and motivated Cybersecurity professional with extensive hands-on experience in security engineering and Security Operations Center (SOC) management. Seeking to leverage a deep understanding of cybersecurity principles and advanced technical skills to contribute to a dynamic team and fortify the organization's defenses.</b>
 
