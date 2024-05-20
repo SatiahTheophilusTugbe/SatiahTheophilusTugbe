@@ -103,8 +103,7 @@
  <img src="https://img.shields.io/badge/LPI_Linux_Essentials-F5BF18?style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
-
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 My YouTube Channel</h2>
 
 - [CCNA3 V5 PACKET TRACER 2.3.2.2 CONFIGURING RAPID PVST+](https://www.youtube.com/watch?v=TE94Wun3AZw&t=290s)
 - [BASIC NETWORK LAB CONFIGURATION FOR ROOKIES](https://www.youtube.com/watch?v=STRQwYBaFZ8&t=313s)
@@ -119,10 +118,10 @@
 [<img align="left" alt="satiahtheophilustugbe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="satiahtheophilustugbe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/satiahttugbe
-[youtube]: https://www.youtube.com/c/SATIAHTHEOPHILUSTUGBE
-[instagram]: https://www.instagram.com/satiahtheophilustugbe/
 [linkedin]: https://linkedin.com/in/satiahtheophilustugbe/
+[youtube]: https://www.youtube.com/c/SATIAHTHEOPHILUSTUGBE
+
+
 
 <!--
 **satiahtheophilustugbe/satiahtheophilustugbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
