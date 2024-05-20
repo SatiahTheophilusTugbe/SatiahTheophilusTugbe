@@ -62,6 +62,7 @@
   <img src="https://img.shields.io/badge/MPLS-FF7F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NIST-ff0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISO27001-003366?style=for-the-badge" />
+ 
  </div>
 
  ### Endpoint / Threat Intelligent & Management
@@ -79,7 +80,21 @@
   <img src="https://img.shields.io/badge/oVrc_Wattbox-0077FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />   
+
  </div>
+
+ ### SIEM / SOAR / ITSM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Logic_Monitor-000000?style=for-the-badge&logo=LogicMonitor&logoColor=white" />
+    <img src="https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/TrackIt-003300?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Osticket-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Security_Orion_Suite-000000?style=for-the-badge" />
+    
+</div>
 
 <h2>📺 Popular YouTube Videos</h2>
 
