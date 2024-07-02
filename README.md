@@ -102,6 +102,8 @@
  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
  <img src="https://img.shields.io/badge/CompTIA_CySA%2B-2D308B?style=for-the-badge&logo=CompTIA&logoColor=white" />
  <img src="https://img.shields.io/badge/LPI_Linux_Essentials-F5BF18?style=for-the-badge&logo=Linux&logoColor=black" />
+ <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
 </div>
 
 <h2>📺 My YouTube Channel</h2>
