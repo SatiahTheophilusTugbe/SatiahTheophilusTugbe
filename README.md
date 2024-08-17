@@ -8,7 +8,7 @@
   # Microsoft Azure Virtual Network setup for SatiahCorp
   Link: (https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup)
   Project Description
-  - In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy, manage, and scale their cloud resources. This        involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
+  In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy, manage, and scale their cloud resources. This        involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
   - [Project Name] (https://github.com/)
   - Project Description
   - [Project Name] (https://github.com/)
