@@ -2,12 +2,12 @@
 
 <b> Driven and detail-oriented Cybersecurity Professional with extensive expertise in threat detection, incident response, and vulnerability management. Adept at designing and implementing robust security measures, conducting in-depth risk assessments, and ensuring compliance with industry standards. Committed to leveraging technical acumen and analytical prowess to safeguard organizational assets, mitigate cyber risks, and foster a secure digital environment. Seeking to contribute to a forward-thinking organization by enhancing its cybersecurity framework and proactively defending against evolving cyber threats.</b>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# 👨‍💻 Cybersecurity Projects:
 
-  # CLOUD SECURITY
+  <h2> CLOUD SECURITY </h2>
   <b> Microsoft Azure Virtual Network setup for SatiahCorp </b>
   
-  <b> https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup </b>
+  <b> Link: https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup </b>
   
   <b> Project Description </b>
   In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy, manage, and scale their cloud resources. This        involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
