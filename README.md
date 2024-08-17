@@ -7,18 +7,16 @@
   <h2> CLOUD SECURITY </h2>
   
   <b> Microsoft Azure Virtual Network setup for SatiahCorp </b>
-  
-  <b> Link: https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup </b>
-  
+   
   <b> Project Description: </b>
-  In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy, manage, and scale their cloud resources. This        involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
+  In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy,        manage, and scale their cloud resources. This involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
+  - <b> Link: https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup </b>
   
   <b> Microsoft Azure Security Group Setup </b> 
   
-  <b> Link: https://github.com/SatiahTheophilusTugbe/AzureSecurityGroupSetup/blob/main/README.md </b>
-  
   <b> Project Description: </b>
-   This project involves setting up a secure cloud network environment using Microsoft Azure. The primary goals were to create a virtual network (VNet) and implement robust security measures through Network Security Groups (NSGs). This setup ensures        that all resources within the cloud environment are secure, scalable, and well-organized
+   This project involves setting up a secure cloud network environment using Microsoft Azure. The primary goals were to create a virtual network (VNet) and implement robust security measures through Network     Security Groups (NSGs). This setup ensures that all resources within the cloud environment are secure, scalable, and well-organized.
+   - <b> Link: https://github.com/SatiahTheophilusTugbe/AzureSecurityGroupSetup/blob/main/README.md </b>
 
   
   - [Project Name] (https://github.com/)
