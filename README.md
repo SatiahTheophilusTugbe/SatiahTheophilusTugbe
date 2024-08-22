@@ -18,15 +18,11 @@
    This project involves setting up a secure cloud network environment using Microsoft Azure. The primary goals were to create a virtual network (VNet) and implement robust security measures through Network     Security Groups (NSGs). This setup          ensures that all resources within the cloud environment are secure, scalable, and well-organized.
    - Link: https://github.com/SatiahTheophilusTugbe/AzureSecurityGroupSetup/blob/main/README.md
 
-  # [Project Name - In Progress] 
-  - Project Description
-    - Link: https://github.com/
-    
   # SOCIAL ENGINEERING
 
   # Phishing Email Awareness
   <b> Project Description: </b>
-  In this project,  I aim to share the knowledge and skills I've acquired during the Lab simulation with Mastercard to help others understand the nuances of phishing attacks. I will cover the fundamentals of phishing, the dangers it poses to both   individuals and organizations, and how to effectively prevent and respond to these threats.
+  In this project, I aim to share the knowledge and skills I've acquired during the Lab simulation with Mastercard to help others understand the nuances of phishing attacks. I will cover the fundamentals of phishing, the dangers it poses to both     individuals and organizations, and how to effectively prevent and respond to these threats.
   - Link: https://github.com/SatiahTheophilusTugbe/PhishingEmailAwarenessAndMitigation
   
   - [Project Name] (https://github.com/)
