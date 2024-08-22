@@ -1,8 +1,8 @@
-<h1>Hi, I'm Satiah Theophilus Tugbe, Snr!</h1>
+<h1> Hi, I'm Satiah Theophilus Tugbe, Snr! </h1>
 
 <b> Driven and detail-oriented Cybersecurity Professional with extensive expertise in threat detection, incident response, and vulnerability management. Adept at designing and implementing robust security measures, conducting in-depth risk assessments, and ensuring compliance with industry standards. Committed to leveraging technical acumen and analytical prowess to safeguard organizational assets, mitigate cyber risks, and foster a secure digital environment. Seeking to contribute to a forward-thinking organization by enhancing its cybersecurity framework and proactively defending against evolving cyber threats.</b>
 
-# 👨‍💻 Cybersecurity Projects:
+<h1> 👨‍💻 Cybersecurity Projects: </h1>
 
   <h2> CLOUD SECURITY </h2>
   
