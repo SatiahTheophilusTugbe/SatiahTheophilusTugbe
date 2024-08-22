@@ -4,7 +4,7 @@
 
 <h1> 👨‍💻 CYBERSECURITY PROJECTS: </h1>
 
-  <h2> Cloud Security </h2>
+ # CLOUD SECURITY
   
  # Microsoft Azure Virtual Network setup for SatiahCorp
    
