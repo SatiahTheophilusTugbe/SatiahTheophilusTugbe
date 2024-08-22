@@ -27,6 +27,7 @@
   # Phishing Email Awareness
   <b> Project Description: </b>
   In this project,  I aim to share the knowledge and skills I've acquired during the Lab simulation with Mastercard to help others understand the nuances of phishing attacks. I will cover the fundamentals of phishing, the dangers it poses to both   individuals and organizations, and how to effectively prevent and respond to these threats.
+  - Link: https://github.com/SatiahTheophilusTugbe/PhishingEmailAwarenessAndMitigation
   
   - [Project Name] (https://github.com/)
   - Project Description
