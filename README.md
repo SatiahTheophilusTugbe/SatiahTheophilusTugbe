@@ -120,7 +120,7 @@
  <img src="https://img.shields.io/badge/LPI_Linux_Essentials-F5BF18?style=for-the-badge&logo=Linux&logoColor=black" />
  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
  <img src="https://img.shields.io/badge/-ISC2%20CC%20Certificate-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/-Mastercard_Cybersecurity_Simulation-FF0000?&style=for-the-badge&logo=Forage&logoColor=white" />
 
 </div>
 
