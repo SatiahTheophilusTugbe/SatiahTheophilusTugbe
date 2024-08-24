@@ -12,7 +12,7 @@
   In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy,        manage, and scale their cloud resources.    This involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
   - Link: https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup
   
- # Microsoft Azure Security Group Setup 
+ <h3> Microsoft Azure Security Group Setup </h3>
   
   <b> Project Description: </b>
    This project involves setting up a secure cloud network environment using Microsoft Azure. The primary goals were to create a virtual network (VNet) and implement robust security measures through Network     Security Groups (NSGs). This setup          ensures that all resources within the cloud environment are secure, scalable, and well-organized.
@@ -20,7 +20,8 @@
 
   # SOCIAL ENGINEERING
 
-  # Phishing Email Awareness
+  <h3> Phishing Email Awareness </h3>
+  
   <b> Project Description: </b>
   In this project, I aim to share the knowledge and skills I've acquired during the Lab simulation with Mastercard to help others understand the nuances of phishing attacks. I will cover the fundamentals of phishing, the dangers it poses to both     individuals and organizations, and how to effectively prevent and respond to these threats.
   - Link: https://github.com/SatiahTheophilusTugbe/PhishingEmailAwarenessAndMitigation
