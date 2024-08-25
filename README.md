@@ -4,76 +4,76 @@
 
 <h1> 👨‍💻 CYBERSECURITY PROJECTS: </h1>
 
- # CLOUD SECURITY
+# CLOUD SECURITY
   
- <h3> Microsoft Azure Virtual Network setup for SatiahCorp </h3>
+<h3> Microsoft Azure Virtual Network setup for SatiahCorp </h3>
    
-  <b> Project Description: </b>
-  In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy, 
-  manage, and scale their cloud resources.    This involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
-  - Link: https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup
+<b> Project Description: </b>
+In this project, I took on the challenge of setting up a cloud network infrastructure using Microsoft Azure. The goal was to create a foundational environment where the Red Team could securely deploy, 
+manage, and scale their cloud resources.    This involved creating a resource group and a virtual network (VNet) to support various services and applications that would be developed later.
+- Link: https://github.com/SatiahTheophilusTugbe/AzureNetworkSetup
   
- <h3> Microsoft Azure Security Group Setup </h3>
+<h3> Microsoft Azure Security Group Setup </h3>
   
-  <b> Project Description: </b>
-   This project involves setting up a secure cloud network environment using Microsoft Azure. The primary goals were to create a virtual network (VNet) and implement robust security measures through Network     
-   Security Groups (NSGs). This setup ensures that all resources within the cloud environment are secure, scalable, and well-organized.
-   - Link: https://github.com/SatiahTheophilusTugbe/AzureSecurityGroupSetup/blob/main/README.md
+<b> Project Description: </b>
+This project involves setting up a secure cloud network environment using Microsoft Azure. The primary goals were to create a virtual network (VNet) and implement robust security measures through Network     
+Security Groups (NSGs). This setup ensures that all resources within the cloud environment are secure, scalable, and well-organized.
+- Link: https://github.com/SatiahTheophilusTugbe/AzureSecurityGroupSetup/blob/main/README.md
 
-  # SOCIAL ENGINEERING
+# SOCIAL ENGINEERING
 
-  <h3> Phishing Email Awareness </h3>
+<h3> Phishing Email Awareness </h3>
   
-  <b> Project Description: </b>
-  In this project, I aimed to share the knowledge and skills I've acquired during the Lab simulation with Mastercard to help others understand the nuances of phishing attacks. 
-  I will cover the fundamentals of phishing, the dangers it poses to both individuals and organizations, and how to effectively prevent and respond to these threats.
-  - Link: https://github.com/SatiahTheophilusTugbe/PhishingEmailAwarenessAndMitigation
+<b> Project Description: </b>
+In this project, I aimed to share the knowledge and skills I've acquired during the Lab simulation with Mastercard to help others understand the nuances of phishing attacks. 
+I will cover the fundamentals of phishing, the dangers it poses to both individuals and organizations, and how to effectively prevent and respond to these threats.
+- Link: https://github.com/SatiahTheophilusTugbe/PhishingEmailAwarenessAndMitigation
 
-  # SECURITY INFORMATION & EVENT MANAGEMENT (SIEM)
+# SECURITY INFORMATION & EVENT MANAGEMENT (SIEM)
 
-  <h3> Splunk Setup, Data Injestion and Queries </h3>
+<h3> Splunk Setup, Data Injestion and Queries </h3>
  
-  <b> Project Description: </b>  
-  In this project, I provided a detailed guide that will walk you thru on how to effectively utilize Splunk for log analysis and continuous monitoring. This step by step guide is based on my recent hands-on experience with Splunk. 
-  This repository will walk you through the essential steps for setting up Splunk, uploading logs, performing queries, and leveraging Splunk's capabilities to enhance your cybersecurity posture.
-  - Link: https://github.com/SatiahTheophilusTugbe/SplunkSetup-RunningSearch/blob/main/README.md
+<b> Project Description: </b>  
+In this project, I provided a detailed guide that will walk you thru on how to effectively utilize Splunk for log analysis and continuous monitoring. This step by step guide is based on my recent hands-on experience with Splunk. 
+This repository will walk you through the essential steps for setting up Splunk, uploading logs, performing queries, and leveraging Splunk's capabilities to enhance your cybersecurity posture.
+- Link: https://github.com/SatiahTheophilusTugbe/SplunkSetup-RunningSearch/blob/main/README.md
 
-  - Project Description
-  - [Project Name] (https://github.com/)
-  - Project Description
-  - [Project Name)] (https://github.com/)
-  - Project Description
-  - [Project Name] (https://github.com/)
+- Project Description
+- [Project Name] (https://github.com/)
+- Project Description
+- [Project Name)] (https://github.com/)
+- Project Description
+- [Project Name] (https://github.com/)
     
 - <b>Technology Type (In Progress)</b>
-  - [Project Name] (https://github.com/)
-  - Project Description
-  - [Project Description] (https://github.com/)
-  - Project Description
-  - [Project Description] (https://github.com/)
-  - Project Description
+- [Project Name] (https://github.com/)
+- Project Description
+- [Project Description] (https://github.com/)
+- Project Description
+- [Project Description] (https://github.com/)
+- Project Description
     
 - <b>Technology Type (In Progress)</b>
-  - [Project Name] (https://github.com/)
-  - Project Description
-  - [Project Name] (https://github.com/)
-  - Project Description
-  - [Project Name] (https://github.com/)
-  - Project Description
+- [Project Name] (https://github.com/)
+- Project Description
+- [Project Name] (https://github.com/)
+- Project Description
+- [Project Name] (https://github.com/)
+- Project Description
  
 - <b>Problem Resolution / Findings</b>
-  - [Problem Type] (https://github.com/)
-  - [Problem Type] (https://github.com/)
-  - [Problem Type] (https://github.com/)
+- [Problem Type] (https://github.com/)
+- [Problem Type] (https://github.com/)
+- [Problem Type] (https://github.com/)
  
 <h2>Documents</h2>
  [Document1] (https://github.com/)
  [Document2] (https://github.com/)
  [Document2] (https://github.com/)
 
- <h2>Tools</h2>
+<h2>Tools</h2>
 
- ### Network / SD-WAN
+### Network / SD-WAN
  <div>
   <img src="https://img.shields.io/badge/Routing_protocols-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
