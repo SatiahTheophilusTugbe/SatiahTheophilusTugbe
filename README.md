@@ -38,8 +38,14 @@ In this project, I provided a detailed guide that will walk you thru on how to e
 with Splunk. This repository will walk you through the essential steps for setting up Splunk, uploading logs, performing queries, and leveraging Splunk's capabilities to enhance your cybersecurity posture.
 - Link: https://github.com/SatiahTheophilusTugbe/SplunkSetup-RunningSearch/blob/main/README.md
 
-- Project Description
-- [Project Name] (https://github.com/)
+<h3> Running Splunk Queries using SPL </h3>
+
+<b> Project Description: </b>
+In this project, I documented my journey in exploring various aspects of Splunk. In this guide, I'll walk you through the steps I took to complete key activities related to Splunk, 
+from initial data injestion warm-ups to scheduling alerts. This repo serves as a detailed reference for anyone looking to understand how to perform these tasks in Splunk.
+- Link: https://github.com/SatiahTheophilusTugbe/Running-Splunk-Queries-using-SPL/blob/main/README.md
+
+  
 - Project Description
 - [Project Name)] (https://github.com/)
 - Project Description
