@@ -25,8 +25,16 @@
   <b> Project Description: </b>
   In this project, I aim to share the knowledge and skills I've acquired during the Lab simulation with Mastercard to help others understand the nuances of phishing attacks. I will cover the fundamentals of phishing, the dangers it poses to both     individuals and organizations, and how to effectively prevent and respond to these threats.
   - Link: https://github.com/SatiahTheophilusTugbe/PhishingEmailAwarenessAndMitigation
-  
-  - [Project Name] (https://github.com/)
+
+  # SECURITY INFORMATION & EVENT MANAGEMENT (SIEM)
+
+  <h3> Splunk Setup, Data Injeestion and Queries </h3>
+ 
+  <b> Project Description: </b>  
+  In this project, I provided a detailed guide that will walk you thru on how to effectively utilize Splunk for log analysis and continuous monitoring. This step by step guide is based on my recent hands-on experience with Splunk. 
+  This repository will walk you through the essential steps for setting up Splunk, uploading logs, performing queries, and leveraging Splunk's capabilities to enhance your cybersecurity posture.
+  - Link: https://github.com/SatiahTheophilusTugbe/SplunkSetup-RunningSearch/blob/main/README.md
+
   - Project Description
   - [Project Name] (https://github.com/)
   - Project Description
