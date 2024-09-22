@@ -49,7 +49,7 @@ from initial data injestion warm-ups to scheduling alerts. This repo serves as a
 
 <b> Project Description: </b>
 In this project, I provideed a step-by-step guide for visualizing and monitoring web traffic data using Splunk. The data in question is focused on POST events, and through various visualization tools like radial gauges, pie charts, and geographic maps, you’ll gain insights into server request patterns and create dashboards to consolidate and monitor these metrics. Each visualization is saved as a report, which is then assembled into a Splunk dashboard for monitoring and alerting.
-- Link: README.md
+- Link: https://github.com/SatiahTheophilusTugbe/SplunkDashboardAndDataVisualization/tree/main
     
 - <b>Technology Type (In Progress)</b>
 - [Project Name] (https://github.com/)
