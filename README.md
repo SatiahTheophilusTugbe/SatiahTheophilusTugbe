@@ -18,7 +18,7 @@ manage, and scale their cloud resources.    This involved creating a resource gr
 <b> Project Description: </b>
 This project involves setting up a secure cloud network environment using Microsoft Azure. The primary goals were to create a virtual network (VNet) and implement robust security measures through Network     
 Security Groups (NSGs). This setup ensures that all resources within the cloud environment are secure, scalable, and well-organized.
-- Link: https://github.com/SatiahTheophilusTugbe/AzureSecurityGroupSetup/blob/main/README.md
+- Link: https://github.com/SatiahTheophilusTugbe/AzureSecurityGroupSetup/tree/main
 
 # SOCIAL ENGINEERING
 
