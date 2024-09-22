@@ -45,11 +45,11 @@ In this project, I documented my journey in exploring various aspects of Splunk.
 from initial data injestion warm-ups to scheduling alerts. This repo serves as a detailed reference for anyone looking to understand how to perform these tasks in Splunk.
 - Link: https://github.com/SatiahTheophilusTugbe/Running-Splunk-Queries-using-SPL/blob/main/README.md
 
-  
-- Project Description
-- [Project Name)] (https://github.com/)
-- Project Description
-- [Project Name] (https://github.com/)
+<h3> Splunk Dashboard and Data Visualization </h3>
+
+<b> Project Description: </b>
+In this project, I provideed a step-by-step guide for visualizing and monitoring web traffic data using Splunk. The data in question is focused on POST events, and through various visualization tools like radial gauges, pie charts, and geographic maps, you’ll gain insights into server request patterns and create dashboards to consolidate and monitor these metrics. Each visualization is saved as a report, which is then assembled into a Splunk dashboard for monitoring and alerting.
+- Link: https://github.com/](https://github.com/SatiahTheophilusTugbe/SplunkDashboardAndDataVisualization/blob/main/README.md
     
 - <b>Technology Type (In Progress)</b>
 - [Project Name] (https://github.com/)
