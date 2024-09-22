@@ -36,14 +36,14 @@ I will cover the fundamentals of phishing, the dangers it poses to both individu
 <b> Project Description: <b>
 In this project, I provided a detailed guide that will walk you thru on how to effectively utilize Splunk for log analysis and continuous monitoring. This step by step guide is based on my recent hands-on experience 
 with Splunk. This repository will walk you through the essential steps for setting up Splunk, uploading logs, performing queries, and leveraging Splunk's capabilities to enhance your cybersecurity posture.
-- Link: https://github.com/SatiahTheophilusTugbe/SplunkSetup-RunningSearch/blob/main/README.md
+- Link: https://github.com/SatiahTheophilusTugbe/SplunkSetup-RunningSearch/blob/main
 
 <h3> Running Splunk Queries using SPL </h3>
 
 <b> Project Description: </b>
 In this project, I documented my journey in exploring various aspects of Splunk. In this guide, I'll walk you through the steps I took to complete key activities related to Splunk, 
 from initial data injestion warm-ups to scheduling alerts. This repo serves as a detailed reference for anyone looking to understand how to perform these tasks in Splunk.
-- Link: https://github.com/SatiahTheophilusTugbe/Running-Splunk-Queries-using-SPL/blob/main/README.md
+- Link: https://github.com/SatiahTheophilusTugbe/Running-Splunk-Queries-using-SPL/blob/main
 
 <h3> Splunk Dashboard and Data Visualization </h3>
 
